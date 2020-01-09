@@ -1,0 +1,8 @@
+{
+    "version": "0.1",
+    "type": "harden",
+    "root": "ctxathp", 
+    "area": "custom-image",
+    "location": "usgovtexas",
+    "environment": "USGovernment"
+}

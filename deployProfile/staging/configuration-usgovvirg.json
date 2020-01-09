@@ -1,0 +1,8 @@
+{
+    "version": "0.1",
+    "type": "harden",
+    "root": "ctxaths", 
+    "area": "custom-image",
+    "location": "usgovvirginia",
+    "environment": "USGovernment"
+}
